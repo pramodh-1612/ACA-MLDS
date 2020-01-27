@@ -33,9 +33,9 @@ Classes_missed (cm): 2
 Relationship_status (rs): SINGLE_AND_STUD
 ```
 
-will have the enthu of that person as **enthu = (11/18)x(0.4) + (4/10)x(0.2) + (4/10)x(0.2) + (2/8)x(-0.2) + (0.2)**
+will have the enthu of that person as **enthu = (11/20)x(0.4) + (4/10)x(0.2) + (4/10)x(0.2) + (2/8)x(-0.2) + (0.2)**
 
-_enthu = 0.4744 (concatenated upto 4 decimal places)_
+_enthu = 0.4100 (concatenated upto 4 decimal places)_
 
 ***Note that relationship status will contribute directy, i.e. 0.2, -0.2 or ZERO (has to be added normally)***
 
