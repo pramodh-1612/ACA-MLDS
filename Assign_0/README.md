@@ -7,7 +7,7 @@ So Galaxy is around the corner and the campus junta is enthusiastic about the sa
 
 With this, strategic thinkers want to know the chances of the winning by conducting various surveys in their respective halls, you are given the `galaxy_data.csv` file containing the dataset of the surveys of different halls. You are the god of designing utilities for the different HECs and your job is to predict the winner of the event _(you'll be given kathi rolls for the same)_. Following are the key features about the data (to protect the privacy, survey people hid the names of the people surveyed):
 
-1. The dataset has columns as: 
+1. ***The dataset has columns as***: 
 
 ***Hall Practice_hours,  Posts_shared,  Bulla_hours, Classes_missed,  Relationship_status, Enthu***
 
@@ -16,7 +16,7 @@ With this, strategic thinkers want to know the chances of the winning by conduct
   - **Posts_shared (out of max 10):** Your responsibility towards your hall is evident from the social advertising factor, the most posts you  share, the better asset you are for your Hall, this factor has a weight of **0.2**.
   - **Bulla_hours (out of max 10):** Bonding with the hall environment requires a certain amount of bulla and evilish hall bitching, HEC wants people to develop jihaad among them, this factor incorporates **0.2** weight for the enthu factor.
   - **Classes_missed (out of max 8):** HEC takes care of academics as well, it is assumed that students who miss a hell lot of classes might end up in depression and run away from galaxy, thus, this factor contributes **-0.2** weight towards the enthu factor.
-  - **Relationship_status:** HEC knows that February is coming, and so is the valentine's week, they know that committed people with ditch the Hall for their _special one_ (or for "meri wali alag hai"), thus, they keep record about the relationship status of the students, there are 3 categories of people with 3 different weights for the enthu contribution:
+  - **Relationship_status:** HEC knows that February is coming, and so is the valentine's week, they know that committed people with ditch the Hall for their _special one_ (or for _"meri wali alag hai"_), thus, they keep record about the relationship status of the students, there are 3 categories of people with 3 different weights for the enthu contribution:
     - _Single and stud: These are the prime asset for the hall, they will contribute **0.2** weight towards the enthu factor._
     - _Committed inside campus: These are the snake people, and HEC knows they can leak the information and can be the cause for the Hall losing, their toxicity will contribute **-0.2** towards the enthu factor._
     - _Long distance ones:_ These are the people who are neither toxic, nor useful, they will contibute **ZERO** weight in the enthu factor.
