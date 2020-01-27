@@ -39,7 +39,7 @@ _enthu = 0.4744 (concatenated upto 4 decimal places)_
 
 ***Note that relationship status will contribute directy, i.e. 0.2, -0.2 or ZERO (has to be added normally)***
 
-- Ideally, the `enthu =1` will be for a person with the following stats:
+- Ideally, the `enthu = 1` will be for a person with the following stats:
 
 ```
 Hall: 12
