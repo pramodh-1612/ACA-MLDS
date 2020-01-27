@@ -12,11 +12,11 @@ With this, strategic thinkers want to know the chances of the winning by conduct
 ***Hall Practice_hours,  Posts_shared,  Bulla_hours, Classes_missed,  Relationship_status, Enthu***
 
   - **Hall:** This is the hall of the student surveyed.
-  - **Practice_hours (out of max 18):** Since practice hours (dance, singing, debating) are important, the weight of this factor will be **0.4**.
+  - **Practice_hours (out of max 20):** Since practice hours (dance, singing, debating) are important, the weight of this factor will be **0.4**.
   - **Posts_shared (out of max 10):** Your responsibility towards your hall is evident from the social advertising factor, the most posts you  share, the better asset you are for your Hall, this factor has a weight of **0.2**.
   - **Bulla_hours (out of max 10):** Bonding with the hall environment requires a certain amount of bulla and evilish hall bitching, HEC wants people to develop jihaad among them, this factor incorporates **0.2** weight for the enthu factor.
   - **Classes_missed (out of max 8):** HEC takes care of academics as well, it is assumed that students who miss a hell lot of classes might end up in depression and run away from galaxy, thus, this factor contributes **-0.2** weight towards the enthu factor.
-  - **Relationship_status:** HEC knows that February is coming, and so is the valentine's week, they know that committed people with ditch the Hall for their _special one_ (or for _"meri wali alag hai"_), thus, they keep record about the relationship status of the students, there are 3 categories of people with 3 different weights for the enthu contribution:
+  - **Relationship_status:** HEC knows that February is coming, and so is the valentine's week, they know that committed people will ditch the Hall for their _special one_ (or for _"meri wali alag hai"_), thus, they keep record about the relationship status of the students, there are 3 categories of people with 3 different weights for the enthu contribution:
     - _Single and stud:_ These are the prime asset for the hall, they will contribute **0.2** weight towards the enthu factor.
     - _Committed inside campus:_ These are the snake people, and HEC knows they can leak the information and can be the cause for the Hall losing, their toxicity will contribute **-0.2** towards the enthu factor.
     - _Long distance ones:_ These are the people who are neither toxic, nor useful, they will contibute **ZERO** weight in the enthu factor.
