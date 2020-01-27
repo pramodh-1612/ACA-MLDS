@@ -19,7 +19,7 @@ With this, strategic thinkers want to know the chances of the winning by conduct
   - **Relationship_status:** HEC knows that February is coming, and so is the valentine's week, they know that committed people with ditch the Hall for their _special one_ (or for "meri wali alag hai"), thus, they keep record about the relationship status of the students, there are 3 categories of people with 3 different weights for the enthu contribution:
     - _Single and stud: These are the prime asset for the hall, they will contribute **0.2** weight towards the enthu factor._
     - _Committed inside campus: These are the snake people, and HEC knows they can leak the information and can be the cause for the Hall losing, their toxicity will contribute **-0.2** towards the enthu factor._
-    - _Long distance ones: _ These are the people who are neither toxic, nor useful, they will contibute **ZERO** weight in the enthu factor.
+    - _Long distance ones:_ These are the people who are neither toxic, nor useful, they will contibute **ZERO** weight in the enthu factor.
 2. ***What is the enthu factor?***
 
 This will be the weighted mean of all the factors mentioned above. For eg. a person with the following stats:
