@@ -20,7 +20,6 @@ With this, strategic thinkers want to know the chances of the winning by conduct
     - _Single and stud: These are the prime asset for the hall, they will contribute **0.2** weight towards the enthu factor._
     - _Committed inside campus: These are the snake people, and HEC knows they can leak the information and can be the cause for the Hall losing, their toxicity will contribute **-0.2** towards the enthu factor._
     - _Long distance ones: _ These are the people who are neither toxic, nor useful, they will contibute **ZERO** weight in the enthu factor.
-    https://github.com/cben/mathdown/wiki/math-in-writing
 2. ***What is the enthu factor?***
 
 This will be the weighted mean of all the factors mentioned above. For eg. a person with the following stats:
